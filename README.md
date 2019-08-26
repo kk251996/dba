@@ -1,0 +1,2 @@
+# dba
+database basic assign
